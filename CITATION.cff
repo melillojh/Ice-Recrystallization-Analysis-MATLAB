@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Ice Recrystallization Analysis MATLAB"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+
+authors:
+  - family-names: "Melillo"
+    given-names: "Jorge Humberto"
+    orcid: "https://orcid.org/0000-0001-7642-0368"
+
+repository-code: "https://github.com/melillojh/Ice-Recrystallization-Analysis-MATLAB"
+
+license: "MIT"
+
+version: "1.0.0"
+
+date-released: "2026-06-16"
+
+abstract: >
+  MATLAB workflow for quantitative analysis of ice recrystallization
+  from microscopy image sequences. The software performs Cellpose-based
+  crystal segmentation, crystal tracking, area and radius measurements,
+  estimation of ice area fraction, and export of quantitative results.
