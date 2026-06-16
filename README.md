@@ -442,34 +442,15 @@ Ice-Recrystallization-Analysis-MATLAB/
 
 
 
-\## Citation
-
-
+## Citation
 
 If you use this software or adapt parts of the workflow for your own research, please cite:
 
+Melillo, J.H. (2026).
+*Ice Recrystallization Analysis MATLAB* (Version 1.0.0).
+Zenodo.
 
-
-```text
-
-Melillo, J.H.
-
-Ice Recrystallization Analysis MATLAB.
-
-Version 1.0.
-
-GitHub repository.
-
-
-
-https://github.com/melillojh/Ice-Recrystallization-Analysis-MATLAB
-
-```
-
-
-
-GitHub provides machine-readable citation metadata through the `CITATION.cff` file.
-
+https://doi.org/10.5281/zenodo.20717587
 
 
 \---
